@@ -3,12 +3,16 @@
     "version": "1.0.0",
     "keywords": [
         "util",
-        "functional",
-        "server",
-        "client",
-        "browser"
+        "webservices",
+        "soap",
+        "client"
     ],
-    "author": "mturatti",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mkjsix/soap-client-example"
+    },
+    "author": "Maurizio Turatti",
     "contributors": [
     ],
     "dependencies": {
