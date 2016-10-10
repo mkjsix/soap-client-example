@@ -17,6 +17,6 @@
     ],
     "dependencies": {
         "xml2js": "0.4.x",
-        "soap": "0.16.x"
+        "soap": "0.17.x"
     }
 }
